@@ -90,5 +90,3 @@ Organizations should improve work-life balance policies, conduct regular retenti
 ## Author
 
 Hari Keerthana
-
-Malla Reddy Engineering College for Women
