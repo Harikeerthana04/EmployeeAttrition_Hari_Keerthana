@@ -41,9 +41,11 @@ EmployeeAttrition_HariKeerthana/
 ├── summary.pdf
 └── charts/
     ├── department.png
-    ├── income.png
+    ├── income_attrition.png
     ├── cm.png
     ├── importance.png
+    ├── wlb.png
+    ├── years_company.png
     └── roc.png
 ```
 
